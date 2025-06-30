@@ -1,0 +1,58 @@
+{
+    "Round 1": [
+        {
+            "id": "bracket_match_685c0c3d93619",
+            "team1_id": "team_685c0bec234bf",
+            "team1_name": "AURA",
+            "team2_id": "team_685c0b7bc6841",
+            "team2_name": "ONIC",
+            "winner_id": null,
+            "winner_name": null,
+            "round": 1
+        },
+        {
+            "id": "bracket_match_685c0c3dae88a",
+            "team1_id": "team_685c0bc9d498f",
+            "team1_name": "BTR",
+            "team2_id": "team_685c0bdd2717a",
+            "team2_name": "ALTER EGO",
+            "winner_id": null,
+            "winner_name": null,
+            "round": 1
+        },
+        {
+            "id": "bracket_match_685c0c3dc5c90",
+            "team1_id": "team_685c0c0b2939e",
+            "team1_name": "GPX",
+            "team2_id": "team_685c0ba66c26f",
+            "team2_name": "EVOS",
+            "winner_id": null,
+            "winner_name": null,
+            "round": 1
+        }
+    ],
+    "Round 2": [
+        {
+            "id": "bracket_match_685c0c3ddcf74",
+            "team1_id": "TBD",
+            "team1_name": "Winner of Match X",
+            "team2_id": "TBD",
+            "team2_name": "Winner of Match X",
+            "winner_id": null,
+            "winner_name": null,
+            "round": 2
+        }
+    ],
+    "Round 3": [
+        {
+            "id": "bracket_match_685c0c3e00972",
+            "team1_id": "TBD",
+            "team1_name": "Winner of Match X",
+            "team2_id": "TBD",
+            "team2_name": "Winner of Match X",
+            "winner_id": null,
+            "winner_name": null,
+            "round": 3
+        }
+    ]
+}

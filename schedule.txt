@@ -1,0 +1,11 @@
+match_685c0c2542832|team_685c0bdd2717a|ALTER EGO|team_685c0bc9d498f|BTR|TBD|Round 1|Completed|team_685c0bdd2717a|team_685c0bc9d498f
+match_685c0c2555796|team_685c0b7bc6841|ONIC|team_685c0c0b2939e|GPX|TBD|Round 1|Scheduled
+match_685c0c2563541|team_685c0bec234bf|AURA|team_685c0ba66c26f|EVOS|TBD|Round 1|Completed|team_685c0ba66c26f|team_685c0bec234bf|team_685c0b7bc6841|team_685c0bec234bf
+match_685c0c2576a3d|TBD|Unknown Team|TBD|Unknown Team|TBD|Round 2|Scheduled
+match_685c0c25887c2|TBD|Unknown Team|TBD|Unknown Team|TBD|Round 3|Scheduled
+match_685c0c3d93820|team_685c0bec234bf|AURA|team_685c0b7bc6841|ONIC|TBD|Round 1|Completed|team_685c0b7bc6841|team_685c0bec234bf
+match_685c0c3daeb44|team_685c0bc9d498f|BTR|team_685c0bdd2717a|ALTER EGO|TBD|Round 1|Scheduled
+match_685c0c3dc7a0d|team_685c0c0b2939e|GPX|team_685c0ba66c26f|EVOS|TBD|Round 1|Completed|team_685c0ba66c26f|team_685c0c0b2939e
+match_685c0c3ddd22e|TBD|Unknown Team|TBD|Unknown Team|TBD|Round 2|Scheduled
+match_685c0c3e00c1f|TBD|Unknown Team|TBD|Unknown Team|TBD|Round 3|Scheduled
+match_685c10b02a406|team_685c0bdd2717a|ALTER EGO|team_685c0ba66c26f|EVOS|2025-06-27T22:07|babak penyisihan|Completed|team_685c0ba66c26f|team_685c0bdd2717a
